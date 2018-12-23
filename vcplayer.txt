@@ -1,8 +1,71 @@
-{
-    "data": {
-        "version": "0.2.0",
-        "users": [
-            "114971101099711198105110103704849555150495245686766484553505355456555575545536570486549575268555165"
-        ]
-    }
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>央视HD</key>
+		<array>
+			<dict>
+				<key>CCTV1综合</key>
+				<string>http://112.25.77.147:8080/live/hdcctv01/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV2财经</key>
+				<string>http://112.25.77.147:8080/live/cctv-2/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV3综艺</key>
+				<string>http://112.25.77.147:8080/live/cctv-3/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV4国际</key>
+				<string>http://112.25.77.147:8080/live/cctv-4/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV5体育</key>
+				<string>http://112.25.77.147:8080/live/cctv-5/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV6电影</key>
+				<string>http://112.25.77.147:8080/live/cctv-6/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV7军事农业</key>
+				<string>http://112.25.77.147:8080/live/cctv-7/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV8电视剧</key>
+				<string>http://112.25.77.147:8080/live/cctv-8/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV9记录</key>
+				<string>http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV10科教</key>
+				<string>http://112.25.77.147:8080/live/cctv-10/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV11戏曲</key>
+				<string>http://112.25.77.147:8080/live/cctv-11/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV12社会与法</key>
+				<string>http://112.25.77.147:8080/live/cctv-12/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV13新闻</key>
+				<string>http://112.25.77.147:8080/live/cctv-13/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV14少儿</key>
+				<string>http://112.25.77.147:8080/live/cctv-14/1.m3u8</string>
+			</dict>
+			<dict>
+				<key>CCTV15音乐</key>
+				<string>http://112.25.77.147:8080/live/cctv-15/1.m3u8</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
