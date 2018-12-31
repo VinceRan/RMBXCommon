@@ -75,8 +75,8 @@
 				<string>http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225901/1.m3u8</string>
 			</dict>
 			<dict>
-				<key>江苏城市</key>
-				<string>http://112.25.77.147:8080/live/hddongfangstv/1.m3u8</string>
+				<key>江苏卫视</key>
+				<string>http://117.169.72.6:8080/ysten-businessmobile/live/jiangsustv/1.m3u8</string>
 			</dict>
 			<dict>
 				<key>深圳卫视</key>
