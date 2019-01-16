@@ -7,59 +7,63 @@
 		<array>
 			<dict>
 				<key>CCTV1综合</key>
-				<string>http://112.25.77.147:8080/live/hdcctv01/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/reallive-cctv1/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV2财经</key>
-				<string>http://112.25.77.147:8080/live/cctv-2/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/5353323539453949720/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV3综艺</key>
-				<string>http://112.25.77.147:8080/live/cctv-3/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/8378175926191110263/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV4国际</key>
-				<string>http://112.25.77.147:8080/live/cctv-4/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/8183388942203045169/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV5体育</key>
-				<string>http://112.25.77.147:8080/live/cctv-5/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/reallive-cctv5/1.m3u8?</string>
+			</dict>
+			<dict>
+				<key>CCTV5+体育</key>
+				<string>http://117.187.29.38:6060/000000001000/reallive-cctv5plus/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV6电影</key>
-				<string>http://112.25.77.147:8080/live/cctv-6/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/6117099895556651277/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV7军事农业</key>
-				<string>http://112.25.77.147:8080/live/cctv-7/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/7050628689018054317/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV8电视剧</key>
-				<string>http://112.25.77.147:8080/live/cctv-8/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/8871488051501921127/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV9记录</key>
-				<string>http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/6275371742726901431/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV10科教</key>
-				<string>http://112.25.77.147:8080/live/cctv-10/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/7019587760656900133/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV11戏曲</key>
-				<string>http://112.25.77.147:8080/live/cctv-11/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/6351457414282570521/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV12社会与法</key>
-				<string>http://112.25.77.147:8080/live/cctv-12/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/5325631075193490169/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV13新闻</key>
-				<string>http://112.25.77.147:8080/live/cctv-13/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/6918130250570453526/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV14少儿</key>
-				<string>http://112.25.77.147:8080/live/cctv-14/1.m3u8</string>
+				<string>http://117.187.29.38:6060/000000001000/8203666801302077036/1.m3u8?</string>
 			</dict>
 			<dict>
 				<key>CCTV15音乐</key>
