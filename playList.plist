@@ -23,7 +23,7 @@
 			</dict>
 			<dict>
 				<key>CCTV5体育</key>
-				<string>http://117.187.29.38:6060/000000001000/reallive-cctv5/1.m3u8?</string>
+				<string>http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8</string>
 			</dict>
 			<dict>
 				<key>CCTV5+体育</key>
